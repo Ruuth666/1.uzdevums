@@ -1,1 +1,3 @@
-# 1.uzdevums
+#1.uzdevums
+
+Šis ir projekta apraksts

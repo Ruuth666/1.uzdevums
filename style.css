@@ -1,0 +1,28 @@
+body{
+    background-color: #beeced;
+    text-align: center;
+}
+.container{
+    margin-top: 20vh;
+}
+
+.title{
+    font-size: 50px;
+}
+.decrease-button{
+    border: solid 2px #c20c0c;
+    color: red;
+}
+.reset-button{
+    border: solid 2px #4a4f4f;
+    color: black;
+}
+.increase-button{
+    border: solid 2px #52bf13;
+    color: green;
+}
+#nummber{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
